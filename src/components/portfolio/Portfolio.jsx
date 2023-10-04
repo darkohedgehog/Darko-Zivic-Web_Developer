@@ -6,6 +6,7 @@ import IMG4 from "../../assets/smartbrain.png";
 import IMG5 from "../../assets/designstudio.png";
 import IMG6 from "../../assets/sitoreklam.png";
 import IMG7 from "../../assets/realestate.png";
+import IMG8 from "../../assets/DraganaPortfolio.png";
 
 
 const data = [
@@ -58,6 +59,13 @@ const data = [
     title: "Real Estate",
     github: "https://github.com/darkohedgehog/realestate-locofy",
     demo: "https://realestate-locofy-three.vercel.app"
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "Dragana Portfolio",
+    github: "https://github.com/darkohedgehog/Dragana-portfolio",
+    demo: "https://dragana-portfolio.vercel.app/"
   }
 ];
 
